@@ -1,9 +1,21 @@
-경마게임
+<!-- untoc -->
+**경마게임**
 ===
 카운터를 이용한 간단한 게임입니다.
 
-<pre>종합 설계 프로젝트
-</pre>
+<!-- untoc -->
+### 목차
+<!-- toc orderedList:0 depthFrom:2 depthTo:6 -->
+
+* [1. 게임 방법](#1-게임-방법)
+* [2. 개발 플랫폼](#2-개발-플랫폼)
+  * [Cyclone V](#cyclone-v)
+  * [Quartus II Web edition 13.0 & 13.1](#quartus-ii-web-edition-130-131)
+* [3. 버그 리포트(2017/6/16)](#3-버그-리포트2017616)
+  * [Cyclone V](#cyclone-v-1)
+
+<!-- tocstop -->
+
 
 ## 1. 게임 방법
 <pre>1. 두 명이서 진행하는 게임이다.
